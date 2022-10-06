@@ -32,7 +32,7 @@
           .hr--line
           li
             i.fa-li.fas.fa-check-circle.clr--darkMint
-            | Promover el uso de hashtags y menciones referentes al proyecto dentro de las redes sociales para generar comunicación voz a voz, de usuario a usuario.
+            | Promover el uso de #[em hashtags] y menciones referentes al proyecto dentro de las redes sociales para generar comunicación voz a voz, de usuario a usuario.
           .hr--line
           li
             i.fa-li.fas.fa-check-circle.clr--darkMint
@@ -40,7 +40,7 @@
           .hr--line
           li
             i.fa-li.fas.fa-check-circle.clr--darkMint
-            | Crear un perfil dedicado al proyecto y generar chatbots que generen respuestas a clientes inseguros o insatisfechos con el servicio brindado.
+            | Crear un perfil dedicado al proyecto y generar #[em chatbots] que generen respuestas a clientes inseguros o insatisfechos con el servicio brindado.
           .hr--line
           li
             i.fa-li.fas.fa-check-circle.clr--darkMint
@@ -60,7 +60,7 @@
         ul.fa-ul.mb-4
           li
             i.fa-li.fas.fa-check-circle.clr--darkMint
-            | Crear un chat de WhatsApp business y un grupo solo para personas interesadas en los temas tratados o propuestos en el proyecto multimedia.
+            | Crear un #[em chat] de WhatsApp business y un grupo solo para personas interesadas en los temas tratados o propuestos en el proyecto multimedia.
           .hr--line
           li
             i.fa-li.fas.fa-check-circle.clr--darkMint
@@ -76,7 +76,7 @@
           .hr--line
           li
             i.fa-li.fas.fa-check-circle.clr--darkMint
-            | Crear stories y demás recursos para que el usuario comprenda que va de la mano la red social con el proyecto y uno genere interés en el otro.
+            | Crear #[em stories] y demás recursos para que el usuario comprenda que va de la mano la red social con el proyecto y uno genere interés en el otro.
           .hr--line
 
     .row.mb-5(data-aos="zoom-in")

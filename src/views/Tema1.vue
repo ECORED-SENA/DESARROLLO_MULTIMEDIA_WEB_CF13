@@ -32,7 +32,7 @@
             figure
               img(src="@/assets/curso/temas/recursos/square_01.svg", alt="alt").img30
           .col-lg
-            p.mb-0 Para publicar en un sitio #[em web] se debe tener en cuenta la adquisición del #[em hosting], la selección del método para copiar en el sitio #[em web] y la copia y publicación en el sitio #[em web]. La implementación del sitio se hace mediante la publicación en la plataforma seleccionada por el equipo de diseño para que otros usuarios puedan interactuar con este. Se debe tener en cuenta que si el proyecto multimedia es un sitio que solo va a ser utilizado por los clientes de una organización en particular, entonces éste se debe disponer en un servidor local mediante una red o plataforma privada (intranet) que brinda todos los recursos solo para los clientes autorizados. En este caso donde el cliente puede ser cualquier usuario, entonces la plataforma es la #[em web] en la cual se encuentran los servidores remotos, a los que puede acceder para solicitar un servicio o sitio de su interés.
+            p.mb-0 Para publicar en un sitio #[em web] se debe tener en cuenta la adquisición del #[em hosting], la selección del método para copiar en el sitio #[em web] y la copia y publicación en el sitio #[em web]. La implementación del sitio se hace mediante la publicación en la plataforma seleccionada por el equipo de diseño para que otros usuarios puedan interactuar con este. Se debe tener en cuenta que si el proyecto multimedia es un sitio que solo va a ser utilizado por los clientes de una organización en particular, entonces este se debe disponer en un servidor local mediante una red o plataforma privada (intranet) que brinda todos los recursos solo para los clientes autorizados. En este caso donde el cliente puede ser cualquier usuario, entonces la plataforma es la #[em web] en la cual se encuentran los servidores remotos, a los que puede acceder para solicitar un servicio o sitio de su interés.
       .col-lg-3.col-8.mb-4.mb-lg-0(data-aos="zoom-in")
         figure
           img(src="@/assets/curso/temas/t1/t1_03.svg", alt="alt")
@@ -215,7 +215,7 @@
 
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)          
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/9Cx7IhDiOg4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)                
 
       
 </template>

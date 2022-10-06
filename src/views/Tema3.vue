@@ -20,7 +20,7 @@
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/6M7GedPHdm0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)       
 
     .bg_img_02
       .row.justify-content-center.align-items-center.mb-4
@@ -50,12 +50,12 @@
                     img(src="@/assets/curso/temas/t3/t3_05.svg", alt="alt")
 
           .squareTop.mb-4(data-aos="fade")
-            p.mb-0 El objetivo principal, al igual que todas las herramientas de mercadeo, es aumentar la rentabilidad, de un negocio con punto de venta físico generalmente, sin embargo, las plataformas virtuales y los proyectos multimedia online o de descarga, también generan rentabilidad, la gran mayoría gracias a la publicidad de terceros dentro de su interfaz, por lo tanto, también necesitan ser visualmente atractivos no solo para los usuarios sino también para posibles socios comerciales de la empresa que creó dicho proyecto, en este caso, “#[em merchandising] virtual”.
+            p.mb-0 El objetivo principal, al igual que todas las herramientas de mercadeo, es aumentar la rentabilidad, de un negocio con punto de venta físico generalmente, sin embargo, las plataformas virtuales y los proyectos multimedia #[em online] o de descarga, también generan rentabilidad, la gran mayoría gracias a la publicidad de terceros dentro de su interfaz, por lo tanto, también necesitan ser visualmente atractivos no solo para los usuarios sino también para posibles socios comerciales de la empresa que creó dicho proyecto, en este caso, “#[em merchandising] virtual”.
 
       .row.justify-content-center
         .col-lg-8
           .cajon.cjn--paleBlue.p-4.mb-4(data-aos="zoom-in")
-            p.mb-0 Desde el inicio de la época digital, todos los modelos de negocio cambiaron o sufrieron adaptaciones con la necesidad de abarcar posicionamiento y renombre en el mercado, el #[em merchandising] virtual proporciona detalles de interfaz e interacción con el consumidor o usuario de la plataforma, que se ven reflejados en mayor número de ventas y descargas online.
+            p.mb-0 Desde el inicio de la época digital, todos los modelos de negocio cambiaron o sufrieron adaptaciones con la necesidad de abarcar posicionamiento y renombre en el mercado, el #[em merchandising] virtual proporciona detalles de interfaz e interacción con el consumidor o usuario de la plataforma, que se ven reflejados en mayor número de ventas y descargas #[em online].
           .row(data-aos="fade")
             .col-auto.d-none.d-lg-flex
               figure
@@ -136,7 +136,7 @@
               figure
                 img(src="@/assets/curso/temas/recursos/square_01.svg", alt="alt").img30
             .col
-              p #[strong En una tienda online, por ejemplo, el correcto #[em merchandising] digital o virtual, deberá resaltar los productos favoritos o los que se desea vender con más diligencia y la interfaz de esta tienda deberá atraer al usuario hacia ese producto en particular, brindando instrucciones al usuario sin hacerlo explícitamente, para que el resultado sea un “Click” en un producto. Elementos como botones de sugerencia o de puntuación para los usuarios hacen fortalecer la identidad de las personas con la plataforma o la página #[em web].]
+              p #[strong En una tienda #[em online], por ejemplo, el correcto #[em merchandising] digital o virtual, deberá resaltar los productos favoritos o los que se desea vender con más diligencia y la interfaz de esta tienda deberá atraer al usuario hacia ese producto en particular, brindando instrucciones al usuario sin hacerlo explícitamente, para que el resultado sea un “Click” en un producto. Elementos como botones de sugerencia o de puntuación para los usuarios hacen fortalecer la identidad de las personas con la plataforma o la página #[em web].]
 
         .col-lg-4(data-aos="fade")
           figure
@@ -200,7 +200,7 @@
               .cont.p-4
                 .numb(data-number="03")
                 h3 Registro para usuarios
-                p.mb-0 Si el objetivo del proyecto multimedia es reunir a varios usuarios, un elemento fundamental de #[em merchandising] y del negocio en general, es el registro, el cual se utiliza frecuentemente en redes sociales, plataformas de compra y venta, juegos online y algunas apps.    
+                p.mb-0 Si el objetivo del proyecto multimedia es reunir a varios usuarios, un elemento fundamental de #[em merchandising] y del negocio en general, es el registro, el cual se utiliza frecuentemente en redes sociales, plataformas de compra y venta, juegos #[em online] y algunas #[em apps].    
             .col-lg-3.col-8
               figure
                 img(src='@/assets/curso/temas/t3/t3_18.svg', alt='')
@@ -220,7 +220,7 @@
               .cont.p-4
                 .numb(data-number="05")
                 h3 Servicio al cliente
-                p.mb-0 Con las cajas de ayuda rápida dentro de la interfaz o las votaciones por la calidad de la experiencia dentro del proyecto. Estos aspectos son valorados por el usuario, generando prestigio en la marca y posicionamiento en la mente de la persona    
+                p.mb-0 Con las cajas de ayuda rápida dentro de la interfaz o las votaciones por la calidad de la experiencia dentro del proyecto. Estos aspectos son valorados por el usuario, generando prestigio en la marca y posicionamiento en la mente de la persona.  
             .col-lg-3.col-8
               figure
                 img(src='@/assets/curso/temas/t3/t3_20.svg', alt='')

@@ -145,7 +145,7 @@ export default {
       link: 'https://www.areatecnologia.com/informatica/servidor-y-tipos.html ',
     },
     {
-      tema: 'Adquirir el hosting',
+      tema: 'Adquirir el <em>hosting</em>',
       referencia: 'Areatecnología (s.f). Dominios TLD. ÁREA TECNOLOGÍA. ',
       tipo: 'Artículo',
       link: 'https://www.areatecnologia.com/nuevas-tecnologias/tld.html ',
@@ -155,7 +155,7 @@ export default {
       referencia:
         'Departamento Nacional de Planeación. (2020). Guía para la elaboración del manual de usuario de los sistemas de información.',
       tipo: 'PDF',
-      descarga: '../downloads/Manual_Usuario_Sistema.pdf',
+      descarga: '../downloads/Guia_Elaboracion_Manual_Usuario_del_Sistema.pdf',
     },
     {
       tema: 'Diseño y aplicación de estrategias de <em>merchandising</em>',
@@ -298,6 +298,42 @@ export default {
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
+      {
+        nombre: 'Eduardo José Velasco Acevedo',
+        cargo: 'Experto temático',
+        centro: 'Centro para la Industria de la Comunicación Gráfica',
+      },
+      {
+        nombre: 'Juan Manuel Reyes Ramírez',
+        cargo: 'Experto temático',
+        centro: 'Centro para la Industria de la Comunicación Gráfica',
+      },
+      {
+        nombre: 'Carlos Andrés Suescun Lesmes',
+        cargo: 'Experto temático',
+        centro: 'Centro para la Industria de la Comunicación Gráfica',
+      },
+      {
+        nombre: 'Olga Lucía Mogollón Carvajal',
+        cargo: 'Experto temático',
+        centro: 'Centro para la Industria de la Comunicación Gráfica',
+      },
+      {
+        nombre: 'Caterine Bedoya Mejía',
+        cargo: 'Experto temático',
+        centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
+      },
+      {
+        nombre: 'Silvia Milena Sequeda Cárdenas',
+        cargo: 'Experto temático',
+        centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
+      },
+      {
+        nombre: 'Jhon Jairo Rodríguez Pérez',
+        cargo: 'Diseñador y evaluador instruccional',
+        centro:
+          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
+      },
     ],
     desarrolloProducto: [
       {
@@ -313,8 +349,50 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Camilo Andrés Bolaño Rey',
+        cargo: 'Locución',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Carlos Eduardo Garavito Parada',
         cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Ernesto Navarro Jaimes',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Gilberto Junior Rodriguez Rodriguez',
+        cargo: 'Validación audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'John Jairo Arciniegas González',
+        cargo: 'Validación audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Wilson Andrés Caceres Arenales',
+        cargo: 'Validación ilustración',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Yicelly Estefania Mesa Silva',
+        cargo: 'Ilustración',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Zuleidy Maria Ruiz Torres',
+        cargo: 'Revisión de guion',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
@@ -325,7 +403,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Yuli Marcela Gómez Tarazona',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
