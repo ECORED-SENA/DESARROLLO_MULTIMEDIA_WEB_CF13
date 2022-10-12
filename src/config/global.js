@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Implementación y publicación del proyecto multimedia',
     descripcionCurso:
-      'Terminado el desarrollo del proyecto multimedia se debe implementar y publicar en el entorno web para el uso de los clientes que lo requieran, teniendo como guía el manual de usuario para su correcta utilización e igualmente el diseño de estrategias de difusión con las cuales se logre su posicionamiento en el mercado. ',
+      'Terminado el desarrollo del proyecto multimedia se debe implementar y publicar en el entorno <em>web</em> para el uso de los clientes que lo requieran, teniendo como guía el manual de usuario para su correcta utilización e igualmente el diseño de estrategias de difusión con las cuales se logre su posicionamiento en el mercado. ',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -160,7 +160,7 @@ export default {
     {
       tema: 'Diseño y aplicación de estrategias de <em>merchandising</em>',
       referencia:
-        'Gómez España, M. C. (2019). Didáctica activa del Visual Merchandising. Revista Finnova: Investigacion E Innovacion Financiera Y Organizacional, 3(6), 35–40.',
+        'Gómez España, M. C. (2019). Didáctica activa del Visual Merchandising. Revista Finnova: Investigacion E Innovacion Financiera Y Organizacional, 3(6), 35-40.',
       tipo: 'Artículo',
       link: 'http://revistas.sena.edu.co/index.php/finn/article/view/2323 ',
     },
@@ -241,10 +241,6 @@ export default {
         'Cámara de Comercio de Valencia. (2015). Como rentabilizar el punto de venta el <em>merchandising</em>',
       link:
         'https://www.camaravalencia.com/es-ES/informacion/publicaciones-de-interes/publicaciones-y-documentos/comercio-distribucion/Documents/Cuadernos_Comercio_2014/Camara-Merchandising2014.pdf',
-    },
-    {
-      referencia: 'CreceNegocios. (2015). El <em>merchandising</em>',
-      link: 'https://www.crecenegocios.com/el-merchandising/ ',
     },
     {
       referencia:
