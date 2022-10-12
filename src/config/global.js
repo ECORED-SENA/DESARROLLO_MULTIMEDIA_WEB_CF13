@@ -155,7 +155,7 @@ export default {
       referencia:
         'Departamento Nacional de Planeación. (2020). Guía para la elaboración del manual de usuario de los sistemas de información.',
       tipo: 'PDF',
-      descarga: '../downloads/Guia_Elaboracion_Manual_Usuario_del_Sistema.pdf',
+      descarga: '/downloads/Guia_Elaboracion_Manual_Usuario_del_Sistema.pdf',
     },
     {
       tema: 'Diseño y aplicación de estrategias de <em>merchandising</em>',
