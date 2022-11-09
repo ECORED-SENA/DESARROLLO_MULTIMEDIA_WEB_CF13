@@ -71,7 +71,7 @@
               .cont.p-4
                 .numb(data-number="02")
                 h3 #[em Hosting] virtual o VPS
-                p.mb-0 Es un servidor virtual privado el cual se ha dividido en compartimentos para que cada uno funcione como una máquina virtual independiente. Las cuentas de usuarios se encuentren en un mismo servidor y comparten recursos de memoria y CPU.     
+                p.mb-0 Es un servidor virtual privado el cual se ha dividido en compartimentos para que cada uno funcione como una máquina virtual independiente. Las cuentas de usuarios se encuentran en un mismo servidor y comparten recursos de memoria y CPU.     
             .col-lg-3.col-8
               figure
                 img(src='@/assets/curso/temas/t1/t1_06.svg', alt='')
@@ -103,7 +103,7 @@
 
           .row(numero="2" titulo="Tasa de transferencia mensual")
             .col-12
-              p.mb-0 Es la cantidad de información del sitio #[em web] que pueden descargar los usuarios mensualmente, medida en #[em gigabytes/seg]. Entre más descargas y transferencia de información tenga el sitio, mayor capacidad de transferencia y ancho de banda necesita, por ello ahora los proveedores ofrece capacidad ilimitada.  
+              p.mb-0 Es la cantidad de información del sitio #[em web] que pueden descargar los usuarios mensualmente, medida en #[em gigabytes/seg]. Entre más descargas y transferencia de información tenga el sitio, mayor capacidad de transferencia y ancho de banda necesita, por ello ahora los proveedores ofrecen capacidad ilimitada.  
 
           .row(numero="3" titulo="Buzones de correo disponibles")
             .col-12
@@ -126,7 +126,7 @@
 
           .row(numero="7" titulo="Acceso github con ssh")
             .col-12
-              p.mb-0 El github es un espacio vació donde los desarrolladores pueden hacer actualizaciones al sitio #[em web] de manera compartida y SSH es el protocolo que les permite autenticarse en el servidor con una clave de acceso para entrar y salir del github. Esta opción es de gran utilidad cuando se desea tener todas las versiones del sitio #[em web], pues el github actúa como un repositorio de versiones del producto.
+              p.mb-0 El github es un espacio vacío donde los desarrolladores pueden hacer actualizaciones al sitio #[em web] de manera compartida y SSH es el protocolo que les permite autenticarse en el servidor con una clave de acceso para entrar y salir del github. Esta opción es de gran utilidad cuando se desea tener todas las versiones del sitio #[em web], pues el github actúa como un repositorio de versiones del producto.
 
           .row(numero="8" titulo="Copias de seguridad")
             .col-12
@@ -147,7 +147,7 @@
             figure
               img(src="@/assets/curso/temas/recursos/cta_00.png", alt="alt").img120
           .col
-            p.mb-0 #[strong En la imagen se observan los diferentes servicios que ofrece un proveedor de #[em hosting], catalogados en tres planes que se diferencian por el número de funcionalidades que puede tener el cliente en un momento dado. La selección del plan se hace de acuerdo con las necesidades y proyecciones que se tengan con el sitio #[em web], pues si se trata de un negocio on line entre más robusto sea el plan mejor experiencia de usuario se puede ofrecer.] 
+            p.mb-0 #[strong En la imagen se observan los diferentes servicios que ofrece un proveedor de #[em hosting], catalogados en tres planes que se diferencian por el número de funcionalidades que puede tener el cliente en un momento dado. La selección del plan se hace de acuerdo con las necesidades y proyecciones que se tengan con el sitio #[em web], pues si se trata de un negocio en línea entre más robusto sea el plan mejor experiencia de usuario se puede ofrecer.] 
 
     .bg_img_04
       .row.justify-content-center
@@ -177,7 +177,7 @@
             figure
               img(src="@/assets/curso/temas/recursos/square_01.svg", alt="alt").img30
           .col-lg
-            p.mb-0 Mientras se esté desarrollando el producto, éste sólo interactúa con el programador como se muestra en la imagen, salvo en los momentos en que se necesite hacer las pruebas de experiencia de usuario o cuando esté terminado y se haya publicado. 
+            p.mb-0 Mientras se esté desarrollando el producto, este solo interactúa con el programador como se muestra en la imagen, salvo en los momentos en que se necesite hacer las pruebas de experiencia de usuario o cuando esté terminado y se haya publicado. 
 
     .row.justify-content-center.mb-4
       .col-lg-9.mb-4.mb-lg-0(data-aos="fade")
@@ -186,7 +186,7 @@
             i.fa-li.fas.fa-check-circle.clr--darkMint
             | #[strong Un servidor de producción] es aquel que está configurado para atender las peticiones de los clientes de manera concurrente, por lo tanto, es donde está alojado el sitio #[em web] terminado. El servidor de producción es el #[em hosting] que está permanentemente conectado a la red de internet para que siempre sea accesible por los usuarios. 
         .squareTop.mb-0
-          p Se observa como varios clientes pueden conectarse concurrentemente a un servidor de producción que está ubicado de manera remota en la plataforma #[em web] y éste a su vez debe estar en la capacidad de responder de la misma manera a sus peticiones.
+          p Se observa cómo varios clientes pueden conectarse concurrentemente a un servidor de producción que está ubicado de manera remota en la plataforma #[em web] y este a su vez debe estar en la capacidad de responder de la misma manera a sus peticiones.
 
       .col-lg-3.col-8(data-aos="zoom-in")
         figure

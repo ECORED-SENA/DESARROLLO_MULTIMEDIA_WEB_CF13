@@ -37,7 +37,8 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Implementación de la aplicación multimedia en la <em>web</em>',
+        titulo:
+          'Implementación y publicación de la aplicación multimedia en la <em>Web</em> ',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -176,7 +177,7 @@ export default {
       referencia:
         'Ecosistema de Recursos Educativos Digitales SENA. (2021). Introducción al <em>Merchandising.</em>',
       tipo: 'video',
-      link: 'https://www.youtube.com/watch? v=D9O4iU9xSaA',
+      link: 'https://www.youtube.com/watch?v=D9O4iU9xSaA',
     },
     {
       tema: 'Diseño y aplicación de estrategias de <em>merchandising</em>',
@@ -227,7 +228,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Alviar, D. (2018). Elementos de <em>merchandising</em> para proyecto multimedia.',
+        'Alviar, D. (2018). Diseño de una propuesta de <em>marketing</em> digital para la organización visión creativa',
       link:
         'https://red.uao.edu.co/bitstream/handle/10614/10209/T07860.pdf?sequence=5&isAllowed=y',
     },
@@ -265,7 +266,7 @@ export default {
     },
     {
       referencia:
-        'Mota, R. (2 de junio de 2018). ¿Qué es <em>merchandising</em< y cómo funciona?. ',
+        'Mota, R. (2 de junio de 2018). ¿Qué es <em>merchandising</em> y cómo funciona?. ',
       link: 'https://clubdeltrade.com/blog/que-es-el-merchandising/ ',
     },
     {

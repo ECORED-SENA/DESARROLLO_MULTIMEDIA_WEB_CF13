@@ -14,7 +14,7 @@
           img(src="@/assets/curso/temas/intro/intro.svg", alt="alt")
       .col-lg-8
         .squareTop
-          p Estimado aprendiz en este componente formativo se podrá comprender, cómo después de culminado el proceso de diseño y desarrollo del proyecto multimedia, es apremiante colocarlo cuanto antes a disposición de los clientes en el entorno de la #[em web], no solo para su visualización, sino para su uso y apropiación.  
+          p Estimado aprendiz, en este componente formativo se podrá comprender, cómo después de culminado el proceso de diseño y desarrollo del proyecto multimedia, es apremiante colocarlo cuanto antes a disposición de los clientes en el entorno de la #[em web], no solo para su visualización, sino para su uso y apropiación.  
         .cajon.cjn--paleBlue.p-4
           p.mb-0 A continuación en el siguiente video se conocerá un poco sobre el proceso de diseño y desarrollo de los proyectos multimedia.   
 

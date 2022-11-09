@@ -18,7 +18,7 @@
           .col-auto.d-none.d-lg-flex
             img(src="@/assets/curso/temas/recursos/square_01.svg", alt="alt").img30
           .col-lg
-            p.mb-0 De acuerdo con los lineamientos trazados por el Ministerio de las Tecnologías de la información y las comunicaciones (2020),  la construcción de este documento se debe realizar en todas las etapas del proyecto, a medida que se van haciendo las entregas parciales y las pruebas de usabilidad con los usuarios finales. Teniendo en cuenta los anteriores referentes el manual del usuario se deben contemplar los siguientes aspectos:
+            p.mb-0 De acuerdo con los lineamientos trazados por el Ministerio de las Tecnologías de la información y las comunicaciones (2020), la construcción de este documento se debe realizar en todas las etapas del proyecto, a medida que se van haciendo las entregas parciales y las pruebas de usabilidad con los usuarios finales. Teniendo en cuenta los anteriores referentes al manual del usuario se deben contemplar los siguientes aspectos:
 
     figure.mb-5
       .video

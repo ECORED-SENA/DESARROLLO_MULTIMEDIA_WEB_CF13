@@ -28,7 +28,7 @@
         ul.fa-ul.mb-4
           li
             i.fa-li.fas.fa-check-circle.clr--darkMint
-            | Crear videos en directo, ejecutando el proyecto virtual, para que sea entendible y de fácil acceso su interfaz.
+            | Crear videos en directo, ejecutando el proyecto virtual, para que sea entendible y de fácil acceso a su interfaz.
           .hr--line
           li
             i.fa-li.fas.fa-check-circle.clr--darkMint

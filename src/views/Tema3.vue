@@ -61,7 +61,7 @@
               figure
                 img(src="@/assets/curso/temas/recursos/square_01.svg", alt="alt").img30
             .col
-              p #[strong De acuerdo con lo anterior el #[em merchandising] virtual contribuye al posicionamiento de los proyectos multimedia porque potencia sus capacidades en la captación de nuevos clientes, seguidores y ventas entre otros. Algunos ejemplos del modelo son la elaboración de una página de ventas atractiva o la utilización de posts patrocinados en sitios #[em web] diferentes de aquellos utilizados por el emprendedor digital.]
+              p #[strong De acuerdo con lo anterior el #[em merchandising] virtual contribuye al posicionamiento de los proyectos multimedia porque potencia sus capacidades en la captación de nuevos clientes, seguidores y ventas entre otros. Algunos ejemplos del modelo son la elaboración de una página de ventas atractiva o la utilización de #[em posts] patrocinados en sitios #[em web] diferentes de aquellos utilizados por el emprendedor digital.]
         .col-lg-4.col-8(data-aos="zoom-in")
           figure
             img(src="@/assets/curso/temas/t3/t3_07.svg", alt="alt") 
@@ -118,7 +118,7 @@
               figure
                 img(src="@/assets/curso/temas/t3/t3_10.png", alt="alt")
             .col-lg-6.order-1.order-lg-2.mb-4.mb-lg-0
-              p.mb-4 Está relacionado con el texto, obviamente, a la forma como el producto se presenta en canales externos, como comerciales, programas televisivos y posts patrocinados. Se hace uso de la ayuda de un influencer, la razón de esta práctica es que las personas están siguiendo cada vez más los perfiles en Instagram y los canales en YouTube, ya que se identifican con las personas detrás de esas redes sociales.
+              p.mb-4 Está relacionado con el texto, obviamente, a la forma como el producto se presenta en canales externos, como comerciales, programas televisivos y #[em posts] patrocinados. Se hace uso de la ayuda de un #[em influencer], la razón de esta práctica es que las personas están siguiendo cada vez más los perfiles en Instagram y los canales en YouTube, ya que se identifican con las personas detrás de esas redes sociales.
 
           .row(numero="5" titulo="<em>Merchandising digital</em>")
             .col-12
@@ -156,7 +156,7 @@
           .squareTop.mb-4
             p.mb-0 Aunque se podría creer que para el ámbito digital solo se pueden implementar estrategias de #[em merchandising] virtual o digital, esto no es así, ya que varias de las herramientas de los diferentes tipos de #[em merchandising] se adecúan perfecto a la intención final que se tiene con el proyecto, que el consumidor o usuario interactúe con él, sea una plataforma #[em web] de compras, entretenimiento, información, una app de un móvil, e incluso un juego de ordenador o celular.
           .cajon.cjn--paleBlue.p-4
-            p.mb-0 Saber que botones, accesos y espacios de recolección de datos debe tener la interfaz de un proyecto multimedia depende en parte del tipo de proyecto.
+            p.mb-0 Saber qué botones, accesos y espacios de recolección de datos debe tener la interfaz de un proyecto multimedia depende en parte del tipo de proyecto.
 
     separador
 
