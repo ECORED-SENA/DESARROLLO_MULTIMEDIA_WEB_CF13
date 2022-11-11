@@ -20,7 +20,7 @@
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/6M7GedPHdm0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)       
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/3My_8q6q810" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)         
 
     .bg_img_02
       .row.justify-content-center.align-items-center.mb-4
